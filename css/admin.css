@@ -1,0 +1,106 @@
+/**
+ * 努力努力再努力！！！！！
+ * Author：smalls
+ * Github：https://github.com/smalls0098
+ * Email：smalls0098@gmail.com
+ * Date：2020/7/24 - 18:21
+**/
+
+#wpadminbar {
+    height: 40px;
+    font-size: 14px;
+    background: linear-gradient(90deg, #1d42ab, #2173dc, #1e93ff);
+}
+
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu {
+    background: linear-gradient(90deg, #1d42ab, #2173dc, #1e93ff);
+}
+
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap {
+    width: 170px;
+    background: #191a23;
+}
+
+#wpadminbar .quicklinks .ab-empty-item, #wpadminbar .quicklinks a, #wpadminbar .shortlink-input {
+    height: 40px;
+}
+
+#wpadminbar #wp-admin-bar-my-account.with-avatar > .ab-empty-item img, #wpadminbar #wp-admin-bar-my-account.with-avatar > a img {
+    border-radius: 50%;
+}
+
+#wp-admin-bar-user-info .avatar {
+    border-radius: 50%;
+}
+
+.alternate, .striped > tbody > :nth-child(odd), ul.striped > :nth-child(odd) {
+    background-color: #f7f7f7;
+}
+
+.wrap .add-new-h2, .wrap .add-new-h2:active, .wrap .page-title-action, .wrap .page-title-action:active {
+    border: 1px solid #57a3f3;
+    color: #57a3f3;
+    background: #f3f5f6;
+}
+
+.wp-core-ui .button, .wp-core-ui .button-secondary {
+    color: #57a3f3;
+    border-color: #57a3f3;
+    background: #f3f5f6;
+    vertical-align: top;
+}
+
+.postbox {
+    border: 1px solid #f1f1f1;
+    border-radius: .5rem;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .04);
+}
+
+.postbox .hndle, .stuffbox .hndle {
+    border-bottom: 1px solid #f1f1f1;
+}
+
+#screen-meta {
+    border: 1px solid #dfdfdf;
+}
+
+#screen-meta-links .show-settings {
+    border: 1px solid #dfdfdf;
+    border-radius: 0 0 6px 6px;
+}
+
+#contextual-help-back {
+    border: 1px solid #dfdfdf;
+}
+
+.wp-core-ui .button-primary {
+    background: #25a0dc;
+    border-color: #25a0dc;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+}
+
+table.wp-list-table {
+    border-radius: .725rem;
+}
+
+#menu-management .menu-edit, #menu-settings-column .accordion-container, .comment-ays, .feature-filter, .imgedit-group, .manage-menus, .menu-item-handle, .popular-tags, .stuffbox, .widget-inside, .widget-top, .widgets-holder-wrap, .wp-editor-container, p.popular-tags, table.widefat {
+    border: 1px solid #dfdfdf;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .04);
+}
+
+.health-check-accordion {
+    border: 1px solid #dfdfdf;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .04);
+}
+
+.card {
+    border-radius: .5rem;
+    border: 1px solid #dfdfdf;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .04);
+}
+
+.widefat thead td, .widefat thead th {
+    border-bottom: 1px solid #dfdfdf;
+}
